@@ -1,8 +1,8 @@
 ### Hi There 😁
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=IgMiras&show_icons=true&include_all_commits=true" alt="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgMiras" alt="">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgMiras&show_icons=true&include_all_commits=true&theme=radical" alt="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgMiras&layout=compact&theme=radical" alt="">
 </div>
 
 <div style="display: inline_block"><br>
