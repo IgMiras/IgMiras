@@ -1,7 +1,7 @@
 ### Hi There
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=IgMiras" alt="">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgMiras&show_icons=true&include_all_commits=true" alt="">
   <img src="https://github.com/IgMiras/github-readme-stats" alt="">
 </div>
 
